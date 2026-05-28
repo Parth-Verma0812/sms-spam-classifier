@@ -62,7 +62,7 @@ The system employs a multi-model architecture built using **scikit-learn**:
 
 ---
 
-## 💻 Installation & Setup
+## Installation & Setup
 
 Get the project up and running locally in just a few minutes:
 
@@ -101,7 +101,7 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 
 ---
 
-## 🎮 Running the Application
+## Running the Application
 
 Launch the Streamlit web application on your local machine:
 
@@ -117,7 +117,7 @@ Simply type or paste a message into the input field and click **Classify this Me
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 sms-spam-classifier/
@@ -132,7 +132,7 @@ sms-spam-classifier/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to open a pull request or submit an issue to improve the preprocessing pipeline or model architecture.
 
 *https://github.com/Parth-Verma0812*
